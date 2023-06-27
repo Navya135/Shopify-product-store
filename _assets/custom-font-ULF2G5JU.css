@@ -1,0 +1,15 @@
+/* app/styles/custom-font.css */
+@font-face {
+  font-family: IBMPlexSerif;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/build/_assets/IBMPlexSerif-Text-YFMZNZW6.woff2) format("woff2");
+}
+@font-face {
+  font-family: IBMPlexSerif;
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+  src: url(/build/_assets/IBMPlexSerif-TextItalic-CS6L5H7S.woff2) format("woff2");
+}
+/*# sourceMappingURL=/build/_assets/custom-font-LYQWGEPO.css.map */

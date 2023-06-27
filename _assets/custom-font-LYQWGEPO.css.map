@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../app/styles/custom-font.css"],
+  "sourcesContent": ["@font-face {\n  font-family: 'IBMPlexSerif';\n  font-display: swap;\n  font-weight: 400;\n  src: url('./fonts/IBMPlexSerif-Text.woff2') format('woff2');\n}\n@font-face {\n  font-family: 'IBMPlexSerif';\n  font-display: swap;\n  font-weight: 400;\n  font-style: italic;\n  src: url('./fonts/IBMPlexSerif-TextItalic.woff2') format('woff2');\n}\n"],
+  "mappings": ";AAAA;AACE;AACA;AACA;AACA;;AAEF;AACE;AACA;AACA;AACA;AACA;;",
+  "names": []
+}
